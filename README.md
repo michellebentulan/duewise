@@ -1,4 +1,4 @@
-PayTrack
+Duewise
 
 A lightweight payment tracking tool for freelancers to manage client projects, record payments, and keep track of outstanding balances.
 
